@@ -1,6 +1,7 @@
 body
 {
-	background: linear-gradient(#fffb03 0%, #fa1500 100%);
+	background:url("https://image.shutterstock.com/image-vector/border-template-kids-numbers-illustration-260nw-627881594.jpg");
+	background-size: cover;
 }
 
 	.login_div1 , .login_div2
